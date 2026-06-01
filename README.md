@@ -38,11 +38,6 @@ ai-travel-chatbot/
 ```
 
 
-## Author
-
-**Shree Harsha S**
-
-GitHub: https://github.com/shreeharsha0125-dotcom
 
 ## License
 
